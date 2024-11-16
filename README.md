@@ -7,8 +7,8 @@ An intuitive and user-friendly mobile app for tracking NBA standings and complet
 Conference Standings: Get real-time standings for the Eastern and Western Conferences.
 Game Results: View completed game scores for a specific date.
 User-Friendly Interface: Built with Flutter to provide a seamless user experience.
-🛠️ Built With
 
+🛠️ Built With
 Flutter/Dart: Frontend framework for creating a sleek and responsive user interface.
 RapidAPI: For fetching live NBA statistics and data.
 
